@@ -1,0 +1,13 @@
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\bin\Debug\MarketManagerWF.exe.config
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\bin\Debug\MarketManagerWF.exe
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\bin\Debug\MarketManagerWF.pdb
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.csprojAssemblyReference.cache
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketGoodsManager.Properties.Resources.resources
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.csproj.GenerateResource.cache
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.csproj.CoreCompileInputs.cache
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.exe
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.pdb
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.Form1.resources
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.Form2.resources
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.Form3.resources
+C:\Users\Mollusc\source\repos\MarketManagerWF\MarketManagerWF\obj\Debug\MarketManagerWF.Form4.resources
